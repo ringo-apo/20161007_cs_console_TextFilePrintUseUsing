@@ -1,6 +1,4 @@
-﻿// テキストファイルを開いて、表示するプログラム
-
-using System;
+﻿using System;
 using System.IO;
 
 namespace ConsoleApplication1
